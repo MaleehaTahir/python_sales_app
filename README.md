@@ -7,7 +7,7 @@ Setup
 - pip install -r requirements.txt (Install all the requirements)
 
 Run
-- cd to {project_dir}/
+- cd to {project_dir}/base
 - run "python main.py"
 
 
